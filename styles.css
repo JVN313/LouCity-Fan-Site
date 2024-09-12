@@ -1,0 +1,11 @@
+section, article {
+    text-align: center;
+}
+
+.menu a:active {
+    color: grey;
+}
+
+.menu a {
+    color: black;
+}
